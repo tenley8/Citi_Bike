@@ -17,6 +17,7 @@ Citi Bike is New York City’s bike share system, and the largest in the nation.
 
 ## Operating Reports
 **January 2020**
+
 In January, there were 6,870 total customer service calls. The Citi Bike call center processed 5,093 calls with an abandonment rate of 13%.The overflow call center, which also takes overnight calls, processed1, 777 calls. Call volume for January was approximately0.54calls per 100 rides. At Citi Bike, theaverage time to handle a call was 3 minutes and 30 seconds with an average hold time of 9 seconds. 
 Revenue: $1,944,342,.37
 
