@@ -3,9 +3,13 @@
 #### Table of Contents
 
 [About Citi Bike](#about-citi-bike) 
+
 [Citi Bike Rates](#citi-bike-rates) 
-[Operating Reports](#operating-reports) 
+
+[Operating Reports](#operating-reports)
+
 [Des Moines](#des-moines)   
+
 [Bcycles](#bcycles)  
 [Rates](#rates)  
 [Locations](#locations) 
