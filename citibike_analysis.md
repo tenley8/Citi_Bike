@@ -42,11 +42,11 @@ REvenue: $2,226,892.57
 
 In April, there were 9,377 total customer service calls. The Citi Bike call center processed 6,678 calls with an abandonment rate of 21%.The overflow call center, which also takes overnight calls, processed 2,699 calls. Call volume for April was approximately 1.35 calls per 100 rides. At Citi Bike, the average time to handle a call was 4m inutes and 40 seconds with an average hold time of 47seconds.
 Revenue: $4,152,899.25
-**Click [here](https://public.tableau.com/profile/tenley5222#!/vizhome/DesMoines/Fact?publish=yes) 2020 Operating Reports**
+**Click [here](https://www.citibikenyc.com/system-data/operating-reports) 2020 Operating Reports**
 
 ## Des Moines
-![](/pics/Desmoins.png)
 There is a reason we are the fastest-growing city in the Midwest. The Des Moines Art Center is noted for its contemporary collections and Pappajohn Sculpture Park. Local produce and live music are draws at the Downtown Farmers' Market. The Greater Des Moines Botanical Garden has outdoor plant displays and a geodesic dome.
+![](/pics/Desmoins.png)
 
 ## Bcycles
 Bcycles is operating the same business model as Citi Bike. .
@@ -54,8 +54,10 @@ Bcycles is operating the same business model as Citi Bike. .
 
 ## Rates
 Bcycles rates can be Single trip or Multi trips.  
- <img align="left" width="400" src="/pics/Rates.png"><br/> 
+ <img align="left" width="550" src="/pics/Rates.png"><br/> 
+
+
 
  ## Locations
- Citi Bike locations are spread across the downtown and surrounding ares of Des Moines
-<img align="left" width="400" src="/pics/locations.png"><br/> 
+ Bcycles locations are spread across the downtown and surrounding ares of Des Moines
+<img align="left" width="5500" src="/pics/locations.png"><br/> 
