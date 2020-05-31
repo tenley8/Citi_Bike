@@ -54,10 +54,10 @@ Bcycles is operating the same business model as Citi Bike. .
 
 ## Rates
 Bcycles rates can be Single trip or Multi trips.  
- <img align="left" width="650" src="/pics/Rates.png"><br/> 
+ ![](/pics/Rates.png)
 
 
 
  ## Locations
  Bcycles locations are spread across the downtown and surrounding ares of Des Moines
-<img align="left" width="600" src="/pics/locations.png"><br/> 
+<img align="left" width="750" src="/pics/locations.png"><br/> 
