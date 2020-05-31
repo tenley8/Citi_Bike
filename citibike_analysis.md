@@ -46,7 +46,7 @@ Revenue: $4,152,899.25
 
 ## Des Moines
 There is a reason we are the fastest-growing city in the Midwest. The Des Moines Art Center is noted for its contemporary collections and Pappajohn Sculpture Park. Local produce and live music are draws at the Downtown Farmers' Market. The Greater Des Moines Botanical Garden has outdoor plant displays and a geodesic dome.
-![](/pics/Desmoins.png)
+<img align="left" width="750" src="/pics/Rates.png"><br/> 
 
 ## Bcycles
 Bcycles is operating the same business model as Citi Bike. .
@@ -54,10 +54,10 @@ Bcycles is operating the same business model as Citi Bike. .
 
 ## Rates
 Bcycles rates can be Single trip or Multi trips.  
- <img align="left" width="550" src="/pics/Rates.png"><br/> 
+ <img align="left" width="750" src="/pics/Rates.png"><br/> 
 
 
 
  ## Locations
  Bcycles locations are spread across the downtown and surrounding ares of Des Moines
-<img align="left" width="5500" src="/pics/locations.png"><br/> 
+<img align="left" width="700" src="/pics/locations.png"><br/> 
