@@ -16,7 +16,8 @@
 
 [Locations](#locations) 
 
-
+## NYC Citi Bike Analysis
+![](/pics/cbike.png)
 
 ## About Citi Bike
 Citi Bike is New York City’s bike share system, and the largest in the nation. Citi Bike launched in May 2013 and has become an essential part of our transportation network. Short-term passes are perfect for tourists and visitors. Explore New York like never before – on two wheels! 
