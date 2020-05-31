@@ -2,10 +2,11 @@
 **Click [here](https://public.tableau.com/profile/tenley5222#!/vizhome/DesMoines/Fact?publish=yes) Tableau Story**
 #### Table of Contents
 
-[About Citi Bike](#about-citi-bike)  
-[Operating](#operating) 
-[Des Moines](#about-des-moines)   
-[Bcycles](#about-bcycles)  
+[About Citi Bike](#about-citi-bike) 
+[Citi Bike Rates](#citi-bike-rates) 
+[Operating Reports](#operating-reports) 
+[Des Moines](#des-moines)   
+[Bcycles](#bcycles)  
 [Rates](#rates)  
 [Locations](#locations) 
 
@@ -13,7 +14,13 @@
 
 ## About Citi Bike
 Citi Bike is New York City’s bike share system, and the largest in the nation. Citi Bike launched in May 2013 and has become an essential part of our transportation network.
-<br/><img align="right" width="200" src="/pics/CitiBike.png"><br/>
+<br/><img align="left" width="400" src="/pics/CitiBike.png"><br/>
+
+## Citi Bike Rates
+
+ ## Citi Bike annual rate$169 /year
+Unlimited 45-minute rides on a classic Citi Bike
+Upgrade an ebike for an additional $0.10/min, capped at $2 for rides 45 minutes or less that start or end outside Manhattan.
 
 ## Operating Reports
 **January 2020**
@@ -41,13 +48,14 @@ Revenue: $4,152,899.25
 ![](/pics/Desmoins.png)
 There is a reason we are the fastest-growing city in the Midwest. The Des Moines Art Center is noted for its contemporary collections and Pappajohn Sculpture Park. Local produce and live music are draws at the Downtown Farmers' Market. The Greater Des Moines Botanical Garden has outdoor plant displays and a geodesic dome.
 
+## Bcycles
 Bcycles is operating the same business model as Citi Bike. .
 ![](/pics/Bcycle.png)
 
 ## Rates
 Bcycles rates can be Single trip or Multi trips.  
- <img align="left" width="250" src="/pics/Rates.png"><br/> 
+ <img align="left" width="400" src="/pics/Rates.png"><br/> 
 
  ## Locations
  Citi Bike locations are spread across the downtown and surrounding ares of Des Moines
-<img align="left" width="250" src="/pics/locations.png"><br/> 
+<img align="left" width="400" src="/pics/locations.png"><br/> 
