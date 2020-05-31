@@ -71,4 +71,4 @@ Bcycles rates can be Single trip or Multi trips.
 
  ## Locations
  Bcycles locations are spread across the downtown and surrounding ares of Des Moines
-<img align="left" width=750" src="/pics/locations.png"><br/> 
+![](/pics/locations.png)
