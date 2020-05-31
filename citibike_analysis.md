@@ -40,11 +40,11 @@ Revenue:  $2,337,351.01
 **March 2020**
 
 In March, there were 12,991 total customer service calls. The Citi Bike call center processed 10,470 calls with an abandonment rate of 28%.The overflow call center, which also takes overnight calls, processed 2,521 calls. Call volume for March was approximately 1.20 calls per 100 rides. At Citi Bike, the average time to handle a call was 4 minutes and 02 seconds with an average hold time of 58 seconds
-REvenue: $2,226,892.57
+Revenue: $2,226,892.57
 
 **April 2020**
 
-In April, there were 9,377 total customer service calls. The Citi Bike call center processed 6,678 calls with an abandonment rate of 21%.The overflow call center, which also takes overnight calls, processed 2,699 calls. Call volume for April was approximately 1.35 calls per 100 rides. At Citi Bike, the average time to handle a call was 4m inutes and 40 seconds with an average hold time of 47seconds.
+In April, there were 9,377 total customer service calls. The Citi Bike call center processed 6,678 calls with an abandonment rate of 21%.The overflow call center, which also takes overnight calls, processed 2,699 calls. Call volume for April was approximately 1.35 calls per 100 rides. At Citi Bike, the average time to handle a call was 4m inutes and 40 seconds with an average hold time of 47 seconds.
 Revenue: $4,152,899.25
 **Click [here](https://www.citibikenyc.com/system-data/operating-reports) 2020 Operating Reports**
 
